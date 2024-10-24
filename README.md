@@ -6,3 +6,5 @@ Here, I present the results of some data analytics projects that I work on in my
 As I work on these projects in my spare time, it may take a while to publish the analyses after downloading and exploring the data.
 
 While I use Python and R for my analyses, the reports are provided as PDF files for easy viewing.
+
+Projects analyzing the puncutality of a European rail company and analyses of publicly available data from a German airline are in the pipeline.
